@@ -22,7 +22,7 @@ title: On the Wonders of Warehouses
 description: >- # this means to ignore newlines until "baseurl:"
   Critical urban studies zine
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wondersofwarehouses.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: wondersofwarehouses
 
 # Build settings
