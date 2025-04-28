@@ -5,7 +5,7 @@ date:   2025-04-20 22:04:49 -0400
 categories: releases
 permalink: "vol1"
 ---
-[**_VIEW THE PDF HERE!_**]({{ site.url }}/assets/Wonders of Warehouses - Vol 1.pdf)
+[**_VIEW THE PDF HERE!_**](/assets/Wonders of Warehouses - Vol 1.pdf)
 
 testing
 
