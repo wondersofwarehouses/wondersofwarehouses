@@ -4,4 +4,4 @@
 
 layout: home
 ---
-[![Volume 2 Out Now!](/assets/vol2promo.png)](/assets/Wonders of Warehouses - Vol 2.pdf)
+[![Volume 3 Out Now!](/assets/vol3promo.png)](/assets/Wonders of Warehouses - Vol 3.pdf)
